@@ -1,4 +1,4 @@
-require "freenom/dns/version"
+require 'freenom/dns/version'
 
 module Freenom
   module Dns
